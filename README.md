@@ -1,2 +1,4 @@
 # cart-usereducer
-Created with CodeSandbox
+Coded on CodeSandbox
+
+<img src="src/Untitled.png" alt="png" >

@@ -30,7 +30,7 @@ const CartItem = ({ id, img, title, price, amount }) => {
         </button>
       </div>
     </article>
-  );
+  )
 };
 
 export default CartItem;
